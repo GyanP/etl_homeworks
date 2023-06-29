@@ -22,7 +22,7 @@
 5. Then go to the directory where test_csv.py file is there
 
     ```
-    cd etl_homework
+    cd etl_homeworks
     ```
 
 5. Install the app dependencies by running:
